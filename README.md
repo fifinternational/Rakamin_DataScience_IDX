@@ -28,4 +28,5 @@ Gabung ketiga file yang telah kamu selesaikan dalam satu folder ZIP yang diberi 
 Submit tugasmu hanya dalam bentuk folder ZIP sesuai ketentuan di No. 5
 
 ## Data
+1. https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/idx-partners/loan_data_2007_2014.csv
 2. https://docs.google.com/spreadsheets/d/1iT1JNOBwU4l616_rnJpo0iny7blZvNBs/edit?usp=sharing&ouid=104063760101318889873&rtpof=true&sd=true
