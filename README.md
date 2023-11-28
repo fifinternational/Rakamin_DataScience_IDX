@@ -26,3 +26,6 @@ File infografis sebagai media presentasi end-to-end solution yang telah kamu bua
 Kerjakan tugas dan siapkan seluruh file yang perlu kamu kumpulkan dengan mengacu kepada No. 3
 Gabung ketiga file yang telah kamu selesaikan dalam satu folder ZIP yang diberi judul "[Nama Lengkap]_VIX_ID/X Partners"
 Submit tugasmu hanya dalam bentuk folder ZIP sesuai ketentuan di No. 5
+
+## Data
+2. https://docs.google.com/spreadsheets/d/1iT1JNOBwU4l616_rnJpo0iny7blZvNBs/edit?usp=sharing&ouid=104063760101318889873&rtpof=true&sd=true
